@@ -1,0 +1,8 @@
+.image {
+  height: 70vh;
+  width: 100%;
+  object-fit: cover;
+}
+footer {
+  height: 20vh;
+}
